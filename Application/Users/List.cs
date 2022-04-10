@@ -8,7 +8,7 @@ using Persistence;
 
 namespace Application.Users
 {
-    public class List
+    public class ListRequest
     {
         public class Query : IRequest<List<User>> { }
         public class Handler : IRequestHandler<Query, List<User>>

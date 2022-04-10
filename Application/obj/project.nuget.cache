@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ZDxpFfutqtcy964AEX9qSmozW7gvfNFGiR3sF4iPAj8hWHDr03laWrtUxkjBbxP9MuWuiAhGXCHAdkQUJVkfQ==",
+  "dgSpecHash": "K92IIKAvLeC8zUXhwuyw3Us+D0L0urzTOAsGLcxtOj7t8dENSyAiR0wxSBrqBbXZaBCnmkTqy63//Athy30JQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Human\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Human\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

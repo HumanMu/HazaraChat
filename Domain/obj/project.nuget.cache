@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OsXQMXwVyCa1+KaLQYbitvxAJsEmAn8KcivwX7DLeH96aXIs15mhzi9CUZCJdYgGr+v9TLl6aw7AuI7p7PdJ/g==",
+  "dgSpecHash": "gkow5Yd/WMmj154vj45GrdKqJaJorM+Fml9Mhk6we5VrYqAzQCBnAGOKFkOkBJv/TD5H8boJuMculRFwxxd/iQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
