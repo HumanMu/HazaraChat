@@ -24,7 +24,18 @@ namespace Persistence
                         Gender = "Man",
 
 
-                     }
+                    },
+                    
+
+                    new User {
+                        Id = 11,
+                        FirstName = "Lo",
+                        LastName = "David",
+                        Age = 25,
+                        Gender = "Man",
+
+
+                    }
                 
                 );
         }

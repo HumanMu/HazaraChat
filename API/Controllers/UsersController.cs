@@ -23,7 +23,12 @@ namespace API.Controllers
         {
             return await _mediator.Send(new ListRequest.Query());
         }
-
+        
+        [HttpGet("{id}")]
+        public async Task<ActionResult<User>> Details(int id) 
+        {
+            return await _mediator.Send(new DetailsRequest.Query{Id = id});
+        }
     }
 }
 

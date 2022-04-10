@@ -8,10 +8,14 @@ using Persistence;
 
 namespace Application.Users
 {
-    public class ListRequest
+    public class DetailsRequest
     {
-        public class Query : IRequest<List<User>> { }
-        public class Handler : IRequestHandler<Query, List<User>>
+        public class Query : IRequest<User> 
+        {
+            public int Id {get; set;} 
+
+         }
+        public class Handler : IRequestHandler<Query, User>
         {
             private readonly DataContext _context;
             public Handler(DataContext context)
@@ -19,9 +23,10 @@ namespace Application.Users
                 _context = context;
             }
 
-            public async Task<List<User>> Handle(Query request, CancellationToken cancellationToken)
+
+            public async Task<User> Handle(Query request, CancellationToken cancellationToken)
             {
-                var user = await _context.Users.ToListAsync(); 
+                var user = await _context.Users.FindAsync(request.Id);    // FindAsync, since we return only ONE user
                 return user; 
             }
         }
