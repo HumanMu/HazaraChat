@@ -1448,11 +1448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Human\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\API\\obj\\",
+      "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Human\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1469,8 +1469,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Human\\Desktop\\HazaraChat\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Application\\Application.csproj"
+            "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Application\\Application.csproj"
             }
           }
         }

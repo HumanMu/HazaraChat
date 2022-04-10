@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hXI97+hsn5t6zWoAevi1CRXwVGhdSrs3rVEx5ul7JpCsExA0CETank+rKk5AzhUdtUxNzhgPrwh48KcuhCLOfA==",
+  "dgSpecHash": "6oDXOB6+Jhh4dXP8/TmABtfZ6jwYH0xFOtfnICmNfICf13wQPymV9cE9GRpAnz49/0Q5j9FvydrbB13OdzsinQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Human\\Desktop\\HazaraChat\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Human\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Human\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

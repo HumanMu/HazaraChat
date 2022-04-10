@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Human\\Desktop\\HazaraChat\\API\\API.csproj": {}
+    "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Human\\Desktop\\HazaraChat\\API\\API.csproj": {
+    "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Human\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\API\\obj\\",
+        "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Human\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Human\\Desktop\\HazaraChat\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Application\\Application.csproj"
+              "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Application\\Application.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Human\\Desktop\\HazaraChat\\Application\\Application.csproj": {
+    "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Human\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Human\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,11 +99,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Human\\Desktop\\HazaraChat\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Domain\\Domain.csproj"
+              "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Human\\Desktop\\HazaraChat\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\Human\\Desktop\\HazaraChat\\Domain\\Domain.csproj": {
+    "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Human\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Human\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -196,14 +196,14 @@
         }
       }
     },
-    "C:\\Users\\Human\\Desktop\\HazaraChat\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Human\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Human\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -220,8 +220,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Human\\Desktop\\HazaraChat\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\Domain\\Domain.csproj"
+              "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Human\\Desktop\\HazaraChat\\WepApp\\Domain\\Domain.csproj"
               }
             }
           }
